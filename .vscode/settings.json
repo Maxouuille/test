@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5fb7473c-4f51-4d63-bc65-f3ae04e98ef7/resourceGroups/RG-MaxmaltyIT/providers/Microsoft.Web/sites/AppServices1-RG-MaxmaltyIT",
+    "appService.deploySubpath": "."
+}
